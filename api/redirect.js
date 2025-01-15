@@ -62,7 +62,7 @@ export default function handler(req, res) {
     </style>
 </head>
 <body>
-    <iframe src="https://xjsdiaoqpwepa.myfunnelish.com/imbassd-1736879310456939"></iframe>
+    <iframe src="https://formalshoesmen.wordpress.com/"></iframe>
 </body>
 </html>`;
 

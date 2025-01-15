@@ -8,7 +8,6 @@ export default function handler(req, res) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fullscreen iFrame</title>
     <style>
         html, body {
             margin: 0;
@@ -38,7 +37,6 @@ export default function handler(req, res) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fullscreen iFrame</title>
     <style>
         html, body {
             margin: 0;
